@@ -1,13 +1,13 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f2f2f2;
-  color: #333333;
+  background-color: #121212;
+  color: #f1f1f1;
   text-align: center;
   padding: 50px;
 }
 
 .tarjeta {
-  background-color: white;
+  background-color: #1f1f1f;
   max-width: 400px;
   margin: auto;
   padding: 30px;
@@ -15,11 +15,11 @@ body {
 }
 
 h1 {
-  color: #3b6e4d;
+  color: #8bc99f;
 }
 
 p {
-  color: #555555;
+  color: #dddddd;
 }
 
 button {
